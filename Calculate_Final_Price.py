@@ -1,3 +1,5 @@
+# SSentongo Joshua 2400701345 24/U/1345
+
 tax_rate = 0
 coupon = None
 discount = 0
@@ -80,6 +82,8 @@ match subtotal:
         print("")
 
 discountAmount = subtotal * (discount/100)
+print(f"Discount Amount : {int(discountAmount)}")
 taxAmount = subtotal * (tax_rate/100)
+print(f"Tax Amount : {int(taxAmount)}")
 finalPrice = subtotal + taxAmount - discountAmount
 print(f"final price is : {finalPrice}")
