@@ -1,0 +1,23 @@
+2026-06-27 12:11:39,617 [INFO] User Quit system
+2026-06-27 12:12:32,038 [WARNING] Delete failed: No Student with entered registration number 1 exists
+2026-06-27 12:12:49,009 [INFO] New student added , Name: w, RegNo: 1
+2026-06-27 12:12:58,299 [INFO] New student added , Name: e, RegNo: 2
+2026-06-27 12:13:26,124 [INFO] Student Name of student 1 updated to James 
+2026-06-27 12:13:41,497 [INFO] Update Successful: Updated details of student with registration number 1
+2026-06-27 12:13:52,767 [INFO] Student with registration number 1 deleted
+2026-06-27 12:14:00,116 [ERROR] Non-numeric input entered, enter a number (1-6)
+2026-06-27 12:14:05,965 [ERROR] Non-numeric input entered, enter a number (1-6)
+2026-06-27 12:14:16,325 [WARNING] 8 is not a valid option, Enter a number between 1 and 6
+2026-06-27 12:15:48,578 [ERROR] Non-numeric input entered, enter a number (1-6)
+2026-06-27 12:15:53,928 [INFO] User Quit system
+2026-06-27 12:34:54,146 [INFO] New student added , Name: james, RegNo: 20/U/01
+2026-06-27 12:35:30,240 [INFO] New student added , Name: Jimmy, RegNo: 23/U/02
+2026-06-27 12:36:16,438 [INFO] Student Name of student 20/U/01 updated to Wassajja 
+2026-06-27 12:36:21,112 [INFO] Update Successful: Updated details of student with registration number 20/U/01
+2026-06-27 12:39:03,355 [INFO] New student added , Name: James, RegNo: 20/U/01
+2026-06-27 12:39:50,116 [INFO] New student added , Name: Wassajja, RegNo: 24/U/01
+2026-06-27 12:40:18,453 [INFO] Student Name of student 20/U/01 updated to Mbappe 
+2026-06-27 12:40:21,347 [INFO] Update Successful: Updated details of student with registration number 20/U/01
+2026-06-27 12:40:27,772 [INFO] student details stored in csv with extra details stored in jason file
+2026-06-27 12:40:46,878 [INFO] Student with registration number 20/U/01 deleted
+2026-06-27 12:40:56,490 [WARNING] 7 is not a valid option, Enter a number between 1 and 6
